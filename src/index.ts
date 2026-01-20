@@ -7,3 +7,8 @@ export function footerRandomText(): string {
   const randomIndex = Math.floor(Math.random() * quotes.length);
   return quotes[randomIndex];
 }
+
+/**
+ * All available footer quotes.
+ */
+export { quotes };
