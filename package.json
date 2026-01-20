@@ -1,6 +1,6 @@
 {
   "name": "@institute-alterna/footer-quotes",
-  "version": "1.0.0",
+  "version": "1.0.1-beta.1",
   "description": "A repository of random quotes to place in website footers or anywhere else as easter eggs.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
