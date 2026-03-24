@@ -11,5 +11,8 @@ export default [
     "waffles are the key to happiness",
     // Formula 1 quotes
     "box box box",
-    "i have the seat full of water. like full of water"
+    "i have the seat full of water. like full of water",
+    // IVE, K-pop group
+    "what's after like",
+    "shall it all be sung be done like this",
 ];
